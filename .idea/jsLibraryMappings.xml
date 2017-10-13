@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{electron-config-DefinitelyTyped, electron-debug-DefinitelyTyped, electron-devtools-installer-DefinitelyTyped, electron-is-dev-DefinitelyTyped, electron-json-storage-DefinitelyTyped, electron-notifications-DefinitelyTyped, electron-notify-DefinitelyTyped, electron-packager-DefinitelyTyped, electron-settings-DefinitelyTyped, electron-store-DefinitelyTyped, electron-window-state-DefinitelyTyped, electron-winstaller-DefinitelyTyped}" />
+    <includedPredefinedLibrary name="Node.js Core" />
+  </component>
+</project>
